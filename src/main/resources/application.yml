@@ -1,0 +1,7 @@
+redis:
+  master:
+    host: localhost
+    port: 6379
+  replica:
+    host: localhost
+    port: 6380

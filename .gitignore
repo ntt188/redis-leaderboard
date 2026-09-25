@@ -1,0 +1,11 @@
+# Build
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# macOS (bao gồm file "._*" do ổ SSD định dạng exFAT sinh ra)
+.DS_Store
+._*
